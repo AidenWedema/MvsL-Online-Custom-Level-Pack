@@ -47,6 +47,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Levels/CustomGhost.unity
     guid: 39b9f67bcc00dd640a5971ac500078e9
+  - enabled: 1
+    path: Assets/Scenes/Levels/AidenVolcano.unity
+    guid: cc653c055118ddc4a8ad7df5a4a376fb
+  - enabled: 1
+    path: Assets/Scenes/Levels/AidenBeach.unity
+    guid: 68d84d4d79334ed4c88de02472885cf7
+  - enabled: 1
+    path: Assets/Scenes/Levels/AidenUnderground.unity
+    guid: 410d65f818aea064086c70979d9e128a
+  - enabled: 1
+    path: Assets/Scenes/Levels/AidenIce.unity
+    guid: 46a5ad9e9d99446478cbc0b1da660ff7
+  - enabled: 1
+    path: Assets/Scenes/Levels/AidenBattle.unity
+    guid: d251cfc706928dc49906c37b9d808221
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: b02bce592fba21b4982d8cf5e36a1459,
       type: 2}
