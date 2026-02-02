@@ -68,6 +68,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Levels/AidenSky.unity
     guid: 0f8f6894aa0e02e4b8f3568161279d7f
+  - enabled: 1
+    path: Assets/Scenes/Levels/AidenGhost.unity
+    guid: 9609aac7990c969499e43023e6c1fd88
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: b02bce592fba21b4982d8cf5e36a1459,
       type: 2}
