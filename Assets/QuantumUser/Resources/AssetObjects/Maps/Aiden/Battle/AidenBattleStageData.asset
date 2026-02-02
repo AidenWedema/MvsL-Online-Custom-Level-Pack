@@ -19,7 +19,7 @@ MonoBehaviour:
   ShowAuthorAndComposer: 1
   StageAuthor: KindAiden
   MusicComposer: Cubby Crazes
-  TranslationKey: level.custom.jungle
+  TranslationKey: level.custom.smash
   GroupingTranslationKey: level.header.custom
   DiscordStageImage: level-jungle
   Icon: {fileID: 21300000, guid: 6987e74b8fb9963428ec6417fab82773, type: 3}
