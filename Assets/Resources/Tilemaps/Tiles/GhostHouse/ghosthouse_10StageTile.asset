@@ -10,31 +10,35 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6d97847a2693b724f89fe1384eaa00a4, type: 3}
-  m_Name: 3 Underground (with ice)_17StageTile
+  m_Name: ghosthouse_10StageTile
   m_EditorClassIdentifier: 
   Identifier:
-    Path: Resources/Tilemaps/Tiles/Cave/3 Underground (with ice)_17StageTile
+    Path: Resources/Tilemaps/Tiles/GhostHouse/ghosthouse_10StageTile
     Guid:
-      Value: 438659600770380355
-  Tile: {fileID: 11400000, guid: 0396fa364ca1eea4093dfb18e959637e, type: 2}
+      Value: 311263575309480840
+  Tile: {fileID: 11400000, guid: f062f96b01a41684892328a4a3821a3a, type: 2}
   CollisionData:
     IsFullTile: 0
     Shapes:
     - Vertices:
       - X:
-          RawValue: -32768
+          RawValue: 4096
         Y:
           RawValue: -32768
       - X:
           RawValue: 32768
         Y:
-          RawValue: 32768
+          RawValue: -4096
       - X:
           RawValue: 32768
+        Y:
+          RawValue: 0
+      - X:
+          RawValue: 0
         Y:
           RawValue: -32768
   IsSlipperyGround: 0
-  IsSlideableGround: 1
+  IsSlideableGround: 0
   IsPolygon: 1
   FootstepSound: 31
   FootstepParticle: 0
