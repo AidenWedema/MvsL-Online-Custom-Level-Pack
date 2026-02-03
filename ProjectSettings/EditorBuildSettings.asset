@@ -74,6 +74,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Levels/AidenMushroom.unity
     guid: f737eae8c987d6945bd176371cb20c73
+  - enabled: 1
+    path: Assets/Scenes/Levels/AidenCastle.unity
+    guid: e2b43876178a0b448ac1693a6d938424
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: b02bce592fba21b4982d8cf5e36a1459,
       type: 2}
