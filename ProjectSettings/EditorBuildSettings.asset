@@ -80,6 +80,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Levels/AidenCastle2.unity
     guid: e2623c992af13f14eac66e8d96ea7d1b
+  - enabled: 1
+    path: Assets/Scenes/Levels/AidenJungle.unity
+    guid: 5a458606b6398d2469f480cbf789bbbd
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: b02bce592fba21b4982d8cf5e36a1459,
       type: 2}
