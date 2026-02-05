@@ -20,7 +20,7 @@ MonoBehaviour:
   StageAuthor: KindAiden
   MusicComposer: Nintendo
   TranslationKey: level.default.fortress
-  GroupingTranslationKey: level.header.default
+  GroupingTranslationKey: level.header.custom
   DiscordStageImage: level-fortress
   Icon: {fileID: 21300000, guid: c8510af529294be40a5f09eeddf3d764, type: 3}
   OverrideAutomaticTilemapSettings: 1

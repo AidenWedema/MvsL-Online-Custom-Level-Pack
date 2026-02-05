@@ -41,7 +41,7 @@ MonoBehaviour:
     X:
       RawValue: 65536
     Y:
-      RawValue: 262144
+      RawValue: 131072
   SpawnpointArea:
     X:
       RawValue: 91750
@@ -64,7 +64,7 @@ MonoBehaviour:
     B: 170
     A: 255
   HidePlayersOnMinimap: 0
-  SpawnBigPowerups: 1
+  SpawnBigPowerups: 0
   SpawnVerticalPowerups: 1
   MainMusic:
   - Id:
