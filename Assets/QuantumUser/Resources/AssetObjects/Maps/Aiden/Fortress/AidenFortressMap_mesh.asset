@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: AidenFortressMap_mesh
   m_EditorClassIdentifier: 
   Identifier:
-    Path: QuantumUser/Resources/AssetObjects/Maps/AidenFortress/AidenFortressMap_mesh
+    Path: QuantumUser/Resources/AssetObjects/Maps/Aiden/Fortress/AidenFortressMap_mesh
     Guid:
       Value: 455594110510482854
   Data: 0000000000000000

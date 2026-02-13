@@ -22,7 +22,7 @@ MonoBehaviour:
   TranslationKey: levels.custom.FreezeFlame
   GroupingTranslationKey: level.header.custom
   DiscordStageImage: level-volcano
-  Icon: {fileID: 21300000, guid: e64cca18721d2d14e95065a64ba3f71c, type: 3}
+  Icon: {fileID: 21300000, guid: 30a937e445bc9ff46b81e2f603e13aa0, type: 3}
   OverrideAutomaticTilemapSettings: 1
   TileDimensions:
     X: 100

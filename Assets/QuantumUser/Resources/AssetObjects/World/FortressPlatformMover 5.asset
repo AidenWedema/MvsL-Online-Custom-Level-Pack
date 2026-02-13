@@ -41,7 +41,7 @@ MonoBehaviour:
       Y:
         RawValue: 0
     TravelDuration:
-      RawValue: 786432
+      RawValue: 655360
     EaseIn: 0
     EaseOut: 0
   - Position:
