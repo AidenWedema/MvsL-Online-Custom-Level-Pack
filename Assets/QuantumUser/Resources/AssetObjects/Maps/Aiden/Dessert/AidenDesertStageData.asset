@@ -11282,22 +11282,22 @@ MonoBehaviour:
     Y:
       RawValue: 262144
   - X:
-      RawValue: -458752
+      RawValue: 163840
     Y:
-      RawValue: 294912
-  - X:
-      RawValue: -606208
-    Y:
-      RawValue: 819200
-  - X:
-      RawValue: 540672
-    Y:
-      RawValue: 917504
+      RawValue: -32768
   - X:
       RawValue: 0
     Y:
       RawValue: 753664
   - X:
-      RawValue: 163840
+      RawValue: -606208
     Y:
-      RawValue: -32768
+      RawValue: 819200
+  - X:
+      RawValue: -458752
+    Y:
+      RawValue: 294912
+  - X:
+      RawValue: 540672
+    Y:
+      RawValue: 917504
