@@ -19,7 +19,7 @@ MonoBehaviour:
   ShowAuthorAndComposer: 1
   StageAuthor: XeroNamikaze
   MusicComposer: Nintendo
-  TranslationKey: level.custom.ice
+  TranslationKey: level.default.ice
   GroupingTranslationKey: level.header.custom
   DiscordStageImage: level-ice
   Icon: {fileID: 21300000, guid: 4a19e608bfb8d1f41966b099fe265f46, type: 3}
