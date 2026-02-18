@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: VifitMap
   m_EditorClassIdentifier: 
   Identifier:
-    Path: QuantumUser/Resources/AssetObjects/Maps/Vifit/VifitMap
+    Path: QuantumUser/Resources/AssetObjects/Maps/Xero/Vifit/VifitMap
     Guid:
       Value: 384271116358907130
   UserAsset:
@@ -326,9 +326,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: -1707233
+            RawValue: -1720320
           Y:
-            RawValue: -179246
+            RawValue: -180224
         Rotation:
           RawValue: 0
     - rid: 482678447030665217
@@ -400,9 +400,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: -1222008
+            RawValue: -1196032
           Y:
-            RawValue: -189887
+            RawValue: -180224
         Rotation:
           RawValue: 0
     - rid: 517780993550057473
@@ -474,9 +474,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: -824438
+            RawValue: -802816
           Y:
-            RawValue: -14454
+            RawValue: -16384
         Rotation:
           RawValue: 0
     - rid: 1309134305590509569
@@ -689,9 +689,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: -819726
+            RawValue: -802816
           Y:
-            RawValue: -206491
+            RawValue: -212992
         Rotation:
           RawValue: 0
     - rid: 1820661912656936961
@@ -763,9 +763,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: -1163483
+            RawValue: -1130496
           Y:
-            RawValue: -187432
+            RawValue: -180224
         Rotation:
           RawValue: 0
     - rid: 1859849342442012673
@@ -837,9 +837,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: 1002704
+            RawValue: 1032192
           Y:
-            RawValue: -217205
+            RawValue: -212992
         Rotation:
           RawValue: 0
     - rid: 2310229055586172929
@@ -911,9 +911,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: -1743412
+            RawValue: -1753088
           Y:
-            RawValue: -181374
+            RawValue: -180224
         Rotation:
           RawValue: 0
     - rid: 2711117323707613185
@@ -985,9 +985,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: -508698
+            RawValue: -475136
           Y:
-            RawValue: -389102
+            RawValue: -393216
         Rotation:
           RawValue: 0
     - rid: 2742109300909408257
@@ -1220,9 +1220,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: -1192213
+            RawValue: -1163264
           Y:
-            RawValue: -188088
+            RawValue: -180224
         Rotation:
           RawValue: 0
     - rid: 3430393203256197121
@@ -1294,9 +1294,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: -2045536
+            RawValue: -2064384
           Y:
-            RawValue: -362821
+            RawValue: -344064
         Rotation:
           RawValue: 0
     - rid: 3730943972269359105
@@ -1368,9 +1368,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: 1395284
+            RawValue: 1392640
           Y:
-            RawValue: -386606
+            RawValue: -376832
         Rotation:
           RawValue: 0
     - rid: 3807088884819427329
@@ -1442,9 +1442,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: -536973
+            RawValue: -540672
           Y:
-            RawValue: -391459
+            RawValue: -393216
         Rotation:
           RawValue: 0
     - rid: 3876727589783470081
@@ -1516,9 +1516,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: -859782
+            RawValue: -851968
           Y:
-            RawValue: -12098
+            RawValue: -16384
         Rotation:
           RawValue: 0
     - rid: 4233810187225399297
@@ -1590,9 +1590,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: -2084506
+            RawValue: -2097152
           Y:
-            RawValue: -361758
+            RawValue: -344064
         Rotation:
           RawValue: 0
     - rid: 4325613107427672065
@@ -1893,9 +1893,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: 939515
+            RawValue: 933888
           Y:
-            RawValue: -217205
+            RawValue: -212992
         Rotation:
           RawValue: 0
     - rid: 4931628923411759105
@@ -1967,9 +1967,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: 1013460
+            RawValue: 1032192
           Y:
-            RawValue: -15537
+            RawValue: -16384
         Rotation:
           RawValue: 0
     - rid: 4934934287293087745
@@ -2041,9 +2041,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: 940859
+            RawValue: 933888
           Y:
-            RawValue: -12848
+            RawValue: -16384
         Rotation:
           RawValue: 0
     - rid: 5113430800242573313
@@ -2183,9 +2183,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: -2121977
+            RawValue: -2129920
           Y:
-            RawValue: -361103
+            RawValue: -344064
         Rotation:
           RawValue: 0
     - rid: 5517585693787815937
@@ -2257,9 +2257,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: 2040620
+            RawValue: 2048000
           Y:
-            RawValue: -154016
+            RawValue: -147456
         Rotation:
           RawValue: 0
     - rid: 6303097459463684097
@@ -2331,9 +2331,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: -892770
+            RawValue: -901120
           Y:
-            RawValue: -15632
+            RawValue: -16384
         Rotation:
           RawValue: 0
     - rid: 6509209495434952705
@@ -2405,9 +2405,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: -857426
+            RawValue: -851968
           Y:
-            RawValue: -207669
+            RawValue: -212992
         Rotation:
           RawValue: 0
     - rid: 6775615562207723521
@@ -2729,9 +2729,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: 970437
+            RawValue: 983040
           Y:
-            RawValue: -215861
+            RawValue: -212992
         Rotation:
           RawValue: 0
     - rid: 8079635105062060033
@@ -3073,9 +3073,9 @@ MonoBehaviour:
       data:
         Position:
           X:
-            RawValue: -891592
+            RawValue: -901120
           Y:
-            RawValue: -207669
+            RawValue: -212992
         Rotation:
           RawValue: 0
     - rid: 8759398838118121473

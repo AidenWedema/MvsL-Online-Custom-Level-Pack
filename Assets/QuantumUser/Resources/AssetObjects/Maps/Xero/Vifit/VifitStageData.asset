@@ -13,16 +13,16 @@ MonoBehaviour:
   m_Name: VifitStageData
   m_EditorClassIdentifier: 
   Identifier:
-    Path: QuantumUser/Resources/AssetObjects/Maps/Vifit/VifitStageData
+    Path: QuantumUser/Resources/AssetObjects/Maps/Xero/Vifit/VifitStageData
     Guid:
       Value: 532518467984279439
-  ShowAuthorAndComposer: 0
-  StageAuthor: ipodtouch0218
-  MusicComposer: 
-  TranslationKey: levels.custom.Vifit
-  GroupingTranslationKey: 
-  DiscordStageImage: 
-  Icon: {fileID: 0}
+  ShowAuthorAndComposer: 1
+  StageAuthor: XeroNamikaze
+  MusicComposer: Nintendo
+  TranslationKey: level.custom.ice
+  GroupingTranslationKey: level.header.custom
+  DiscordStageImage: level-ice
+  Icon: {fileID: 21300000, guid: 4a19e608bfb8d1f41966b099fe265f46, type: 3}
   OverrideAutomaticTilemapSettings: 0
   TileDimensions:
     X: 178
@@ -64,7 +64,7 @@ MonoBehaviour:
     B: 170
     A: 255
   HidePlayersOnMinimap: 0
-  SpawnBigPowerups: 1
+  SpawnBigPowerups: 0
   SpawnVerticalPowerups: 1
   MainMusic:
   - Id:
@@ -16990,38 +16990,34 @@ MonoBehaviour:
     Flags: 0
   BigStarSpawnpoints:
   - X:
-      RawValue: -2966159
+      RawValue: -2211840
     Y:
-      RawValue: -239206
+      RawValue: -32768
   - X:
-      RawValue: -2732851
+      RawValue: -2736128
     Y:
-      RawValue: 24903
+      RawValue: 32768
   - X:
-      RawValue: -2214461
+      RawValue: -851968
     Y:
-      RawValue: -25559
+      RawValue: -327680
   - X:
-      RawValue: -850657
+      RawValue: -2965504
     Y:
-      RawValue: -326369
+      RawValue: -245760
   - X:
-      RawValue: -2966159
+      RawValue: 983040
     Y:
-      RawValue: -239206
+      RawValue: -360448
   - X:
-      RawValue: 986316
+      RawValue: -1458176
     Y:
-      RawValue: -361758
+      RawValue: -131072
   - X:
-      RawValue: -1454243
+      RawValue: 1949696
     Y:
-      RawValue: -167772
+      RawValue: -65536
   - X:
-      RawValue: 1947729
+      RawValue: 294912
     Y:
-      RawValue: -90439
-  - X:
-      RawValue: 290324
-    Y:
-      RawValue: -102891
+      RawValue: -98304

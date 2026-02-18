@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: VifitMap_mesh
   m_EditorClassIdentifier: 
   Identifier:
-    Path: QuantumUser/Resources/AssetObjects/Maps/Vifit/VifitMap_mesh
+    Path: QuantumUser/Resources/AssetObjects/Maps/Xero/Vifit/VifitMap_mesh
     Guid:
       Value: 431839562252670500
   Data: 0000000000000000
