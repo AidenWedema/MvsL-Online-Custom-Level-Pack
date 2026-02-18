@@ -101,6 +101,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Levels/Vifit.unity
     guid: fabdc5484b1d2ad4a81ee64f87f2cefc
+  - enabled: 1
+    path: Assets/Scenes/Levels/AidenBouncy.unity
+    guid: ae4cf3c3e8765ed42a13dc82b5760faa
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: b02bce592fba21b4982d8cf5e36a1459,
       type: 2}
